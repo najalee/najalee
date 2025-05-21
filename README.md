@@ -1,4 +1,12 @@
-### Hi there 👋
+### hello!
+
+i'm najalee (with a dash)
+
+- 🔭 i’m currently pursing a masters in cs @ ut dallas
+- 👯 i've interned at: CDW, NCR Atleos
+- 🤔 check out my [chrome extension text summarizer](najalee/nlp-project)
+- 📫 reach me at my [linkedin](https://www.linkedin.com/in/najalee) or my email najaleeh@gmail.com
+- ⚡ fun fact: i really really REALLY like zombie movies, tv shows (not twd), games, and (recently) books
 
 <!--
 **najalee/najalee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
