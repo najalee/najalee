@@ -6,7 +6,7 @@ i'm najalee (with a dash)
 - 👯 i've interned at: CDW, NCR Atleos
 - 🤔 check out my [chrome extension text summarizer](https://github.com/najalee/nlp-project)
 - 📫 reach me at my [linkedin](https://www.linkedin.com/in/najalee) or my email najaleeh@gmail.com
-- ⚡ fun fact: i really really REALLY like zombie movies, tv shows (not twd), games, and (recently) books
+- ⚡ fun fact: i really really REALLY like zombie movies, zombie tv shows (not twd), zombie games, and (recently) zombie books
 
 <!--
 **najalee/najalee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
